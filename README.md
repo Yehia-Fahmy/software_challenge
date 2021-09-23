@@ -1,5 +1,4 @@
-My name is Yehia Fahmy and this is my submission for the software training\\
-Started on Sept 22 2021\\
+My name is Yehia Fahmy and this is my submission for the software training, started on Sept 22 2021
 
 # This package aims to complete the following tasks
 
