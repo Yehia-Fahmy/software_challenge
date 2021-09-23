@@ -1,0 +1,14 @@
+# this action will move a turtle to the given waypoint
+# goal will be a linear coordinates and angular coordinates
+geometry_msgs/Vector3 linear_pos
+geometry_msgs/Vector3 angular_pos
+
+---
+# result will be duration in seconds
+uint64 duration
+
+---
+# feedback will be coordinates and angle
+float32 x_pos
+float32 y_pos
+float32 theta_pos
